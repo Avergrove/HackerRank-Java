@@ -30,8 +30,8 @@ public class BotSavesPrincess {
         }
 
         // Find the wae to the princess
-        int xDiff = princessPosition.getX() - playerPosition.getX();
-        int yDiff = princessPosition.getY() - playerPosition.getY();
+        int xDiff = princessPosition.getRow() - playerPosition.getRow();
+        int yDiff = princessPosition.getCol() - playerPosition.getCol();
 
         while(xDiff != 0 || yDiff != 0){
             if(xDiff > 0){

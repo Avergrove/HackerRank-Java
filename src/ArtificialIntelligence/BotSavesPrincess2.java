@@ -2,7 +2,6 @@ package ArtificialIntelligence;
 
 import ArtificialIntelligence.Helper.Pair;
 
-import java.awt.geom.Point2D;
 import java.util.Scanner;
 
 public class BotSavesPrincess2 {
@@ -30,8 +29,8 @@ public class BotSavesPrincess2 {
         }
 
         // Find the wae to the princess
-        int xDiff = princessPosition.getX() - playerPosition.getX();
-        int yDiff = princessPosition.getY() - playerPosition.getY();
+        int xDiff = princessPosition.getRow() - playerPosition.getRow();
+        int yDiff = princessPosition.getCol() - playerPosition.getCol();
 
         if (xDiff > 0) {
             System.out.println("RIGHT");
