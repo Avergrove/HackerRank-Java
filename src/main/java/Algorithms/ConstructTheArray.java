@@ -1,8 +1,11 @@
 package Algorithms;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
+// TODO: Fix heap problem, and low efficiency (?)
 public class ConstructTheArray {
 
     /**
@@ -14,9 +17,12 @@ public class ConstructTheArray {
      */
     static long countArray(int n, int k, int x) {
 
+        long[] prevN = new long[k+1]; // Tracks ways to form length **N - 1** on last iteration
+        long[] currN = new long[k+1]; // Track ways to form length N for this iteration
         long[][] waysToConstructN = new long[n+1][k+1]; // Dictates an array[i][j] of length i, which ends with j, and the number of combinations to form it.
 
         for(int i = 2; i < k + 1; i++) {
+            prevN[i] = 1;
             waysToConstructN[2][i] = 1;
         }
 
