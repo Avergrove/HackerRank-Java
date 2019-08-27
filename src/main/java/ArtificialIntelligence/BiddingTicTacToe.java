@@ -7,14 +7,6 @@ public class BiddingTicTacToe {
         int firstPlayerFund;
         int secondPlayerFund;
 
-        switch(move){
-            case "BID":
-
-                break;
-
-            default:
-                break;
-        }
     }
 
     static int getBestBid(int playerOnefund, int playerTwoFund){
