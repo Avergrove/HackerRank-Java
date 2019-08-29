@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="479e4789-5644-4449-908b-fd5111eb457d" name="Default Changelist" comment="Added Partial solution to the ConstructTheArray problem">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArtificialIntelligence/ComputerVision/CaptchaCracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArtificialIntelligence/ComputerVision/Erosion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArtificialIntelligence/ComputerVision/input/Erosion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/ArraysLeftRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/FriendCircleQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/Primality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/TwoDArrayDS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/input/ArraysLeftRotation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/input/FriendCircleQueries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/input/Primality" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPreparationKit/input/TwoDArrayDS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/MeanMedianMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/WeightedMean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/MeanMedianMode" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/WeightedMean" afterDir="false" />
+    <list default="true" id="479e4789-5644-4449-908b-fd5111eb457d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/InterquartileRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/Quartiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/StandardDeviation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/InterquartileRange" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/Quartiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/StandardDeviation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArtificialIntelligence/BiddingTicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArtificialIntelligence/BiddingTicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ArtificialIntelligence/LightsOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArtificialIntelligence/LightsOut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/HackerRank.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,34 +27,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/MeanMedianMode.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/StandardDeviation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+            <state relative-caret-position="35">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/WeightedMean.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/InterquartileRange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="358">
+              <caret line="75" column="7" lean-forward="true" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="docComment;method#median#0;class#InterquartileRange#0" />
+                <element signature="method#median#0;class#InterquartileRange#0" />
+                <element signature="docComment;method#quartile#0;class#InterquartileRange#0" />
+                <element signature="method#quartile#0;class#InterquartileRange#0" />
+                <element signature="docComment;method#interquartileRange#0;class#InterquartileRange#0" />
+                <element signature="e#2123#2124#0" expanded="true" />
+                <element signature="e#2155#2156#0" expanded="true" />
+                <element signature="method#mode#0;class#InterquartileRange#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/WeightedMean">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/InterquartileRange">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -88,6 +87,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -137,6 +137,12 @@
         <option value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/MeanMedianMode.java" />
         <option value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/WeightedMean" />
         <option value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/WeightedMean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/Quartiles" />
+        <option value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/Quartiles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/StandardDeviation" />
+        <option value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/StandardDeviation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/InterquartileRange" />
+        <option value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/InterquartileRange.java" />
       </list>
     </option>
   </component>
@@ -256,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WeightedMean">
+  <component name="RunManager" selected="Application.InterquartileRange">
     <configuration name="ArraysLeftRotation" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewPreparationKit.ArraysLeftRotation" />
       <module name="HackerRank" />
@@ -345,6 +351,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InterquartileRange" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TenDaysOfStatistics.InterquartileRange" />
+      <module name="HackerRank" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/InterquartileRange" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TenDaysOfStatistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LightsOut" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArtificialIntelligence.LightsOut" />
       <module name="HackerRank" />
@@ -383,6 +404,36 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="InterviewPreparationKit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quartiles" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TenDaysOfStatistics.Quartiles" />
+      <module name="HackerRank" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/Quartiles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TenDaysOfStatistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StandardDeviation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TenDaysOfStatistics.StandardDeviation" />
+      <module name="HackerRank" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/StandardDeviation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TenDaysOfStatistics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -432,6 +483,9 @@
       <item itemvalue="Application.FriendCircleQueries" />
       <item itemvalue="Application.MeanMedianMode" />
       <item itemvalue="Application.WeightedMean" />
+      <item itemvalue="Application.Quartiles" />
+      <item itemvalue="Application.StandardDeviation" />
+      <item itemvalue="Application.InterquartileRange" />
     </list>
     <recent_temporary>
       <list>
@@ -464,7 +518,7 @@
       <workItem from="1566443650301" duration="120000" />
       <workItem from="1566450455743" duration="15825000" />
       <workItem from="1566540058201" duration="5260000" />
-      <workItem from="1566806661624" duration="7816000" />
+      <workItem from="1566806661624" duration="24980000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1565921283882</created>
@@ -501,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566201725543</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added 10 days of Stats">
+      <created>1566884434664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566884434664</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -537,7 +598,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79290000" />
+    <option name="totallyTimeSpent" value="96454000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -552,7 +613,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28993288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28993288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -562,8 +623,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -635,7 +696,8 @@
     <MESSAGE value="Added Coin Change Problem Skeleton" />
     <MESSAGE value="Added Coin Change Problem Solution" />
     <MESSAGE value="Added Partial solution to the ConstructTheArray problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Partial solution to the ConstructTheArray problem" />
+    <MESSAGE value="Added 10 days of Stats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 10 days of Stats" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -681,6 +743,18 @@
           <line>41</line>
           <properties />
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/Quartiles.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/Quartiles.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1006,16 +1080,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/MeanMedianMode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/WeightedMean">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1025,10 +1089,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/WeightedMean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="-16">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/Quartiles">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/StandardDeviation">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/StandardDeviation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/MeanMedianMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/Quartiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/input/InterquartileRange">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TenDaysOfStatistics/InterquartileRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="75" column="7" lean-forward="true" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="docComment;method#median#0;class#InterquartileRange#0" />
+            <element signature="method#median#0;class#InterquartileRange#0" />
+            <element signature="docComment;method#quartile#0;class#InterquartileRange#0" />
+            <element signature="method#quartile#0;class#InterquartileRange#0" />
+            <element signature="docComment;method#interquartileRange#0;class#InterquartileRange#0" />
+            <element signature="e#2123#2124#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="method#mode#0;class#InterquartileRange#0" />
           </folding>
         </state>
       </provider>
