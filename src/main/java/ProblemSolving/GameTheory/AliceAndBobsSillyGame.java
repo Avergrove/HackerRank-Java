@@ -1,4 +1,4 @@
-package Algorithms;
+package ProblemSolving.GameTheory;
 
 import java.util.Arrays;
 import java.util.Scanner;
